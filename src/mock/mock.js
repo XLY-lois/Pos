@@ -47,7 +47,7 @@ Mock.mock("/oftenGoods", [
     price: 15
   },
   {
-    goodsId: 20,
+    goodsId: 10,
     goodsName: "香脆鸡柳",
     price: 17
   }
@@ -93,7 +93,7 @@ Mock.mock("/typeGoods", [
       price: 15
     },
     {
-      goodsId: 20,
+      goodsId: 10,
       goodsImg: "../assets/img1.jpg",
       goodsName: "香脆鸡柳",
       price: 17
